@@ -2,5 +2,11 @@ body {
   background-color: black;
 }
 .h {
-  background-image: trombone.jpg
+  background-image: trombone.jpg;
+}
+table {
+  left: 50%;
+}
+h1 {
+  color: white;
 }
