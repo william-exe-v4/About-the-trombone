@@ -1955,9 +1955,10 @@ fieldset[disabled] .button {
 .content h4,
 .content h5,
 .content h6 {
-  color: #363636;
+  color: #ffffff;
   font-weight: 600;
   line-height: 1.125;
+  font-family: Comfortaa;
 }
 
 .content h1 {
@@ -2003,7 +2004,7 @@ fieldset[disabled] .button {
 }
 
 .content blockquote {
-  background-color: whitesmoke;
+  background-color: black;
   border-left: 5px solid #dbdbdb;
   padding: 1.25em 1.5em;
 }
@@ -2101,7 +2102,7 @@ fieldset[disabled] .button {
 }
 
 .content table th {
-  color: #363636;
+  color: #979696;
 }
 
 .content table th:not([align]) {
@@ -2111,7 +2112,7 @@ fieldset[disabled] .button {
 .content table thead td,
 .content table thead th {
   border-width: 0 0 2px;
-  color: #363636;
+  color: #858080;
 }
 
 .content table tfoot td,
